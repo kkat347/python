@@ -1,6 +1,7 @@
 # File: ConvertUnits.py
 # Date: 7/14/2024
 # Description of Program: This program is a length converter calculator that converts a length in feet/inches and converts them to various other units.
+# Covers Basic Python
 
 # This portion of the code is for inputs of numbers
 inputFeet = int( input("Enter number of feet: ") )
