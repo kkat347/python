@@ -1,5 +1,5 @@
 # Python Projects
-This repository is a collection of python projects.
+This repository is a collection of python assignments from UT Austin.
 
 # Technicals
 #### This is a list of skills, programs, and programming languages that will be demonstrated here
