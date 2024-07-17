@@ -8,9 +8,13 @@ This repository is a collection of Python-related work.
 # Projects
 **Completed**
 * Length Conversion Calculator
+* Day of the Year
+* Function Examples
+* Min and Max
+* Payroll
 
 **In Progress**
-
+* Rock/Paper/Scissors
 
 # Author
 Katie Yang
