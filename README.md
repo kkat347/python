@@ -1,5 +1,5 @@
-# Python Projects
-This repository is a collection of python assignments from UT Austin.
+# Python
+This repository is a collection of Python-related work.
 
 # Technicals
 #### This is a list of skills, programs, and programming languages that will be demonstrated here
@@ -10,7 +10,7 @@ This repository is a collection of python assignments from UT Austin.
 * Length Conversion Calculator
 
 **In Progress**
-* 
+
 
 # Author
 Katie Yang
